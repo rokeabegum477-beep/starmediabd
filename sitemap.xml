@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   
+   <!-- ১. আপনার মেইন হোমপেজের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- ২. নতুন ১ম পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=12</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- ৩. নতুন ২য় পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=11</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- ৪. নতুন ৩য় পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=1</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- ৫. নতুন ৪র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=3</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- ৬. নতুন ৫র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=6</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- ৭. নতুন ৬র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=9</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- ৮. নতুন ৭র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=7</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- ৯. নতুন ৮র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=2</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- ১০. নতুন ৯র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=4</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+<!-- ১১. নতুন ১০র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=5</loc>
+      <lastmod>2026-06-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+<!-- 12. নতুন 11র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=13</loc>
+      <lastmod>2026-06-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- 13. নতুন 12র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=14</loc>
+      <lastmod>2026-06-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- 14. নতুন 13র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=15</loc>
+      <lastmod>2026-06-30</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- 15. নতুন 14র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=16</loc>
+      <lastmod>2026-06-30</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+<!-- 16. নতুন 15র্থ পোস্টের লিংক -->
+   <url>
+      <loc>https://starmediabd.shop/?v=17</loc>
+      <lastmod>2026-07-1</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+</urlset>
